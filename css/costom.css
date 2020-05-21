@@ -1,0 +1,5 @@
+.jumbotron{
+    background:linear-gradient(180deg, #0e0920d0, #15151aab), url('../img/photo_2020-05-21\ 16.13.55.jpeg') no-repeat;
+    background-size: cover;
+    background-blend-mode: normal;
+}
